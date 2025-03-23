@@ -84,6 +84,7 @@ section{
     justify-content: center;
     align-items: center;
     gap: 15rem;
+    margin-top: 3rem;
 }
 .home-content{
     display: flex;
